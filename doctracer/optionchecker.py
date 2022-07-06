@@ -17,7 +17,7 @@ def optionchecker(argumentList):
 
     if '--version' in argumentList:
         print("")
-        print(" version v0.1.0")
+        print(" version v0.2.0")
         print(" last update: 16th Nov,2021")
         print(" distributor: karan51ngh")
         print(" code name: alpha release")
@@ -26,7 +26,7 @@ def optionchecker(argumentList):
 
     if '-v' in argumentList:
         print("")
-        print(" version v0.1.0")
+        print(" version v0.2.0")
         print(" last update: 16th Nov,2021")
         print(" distributor: karan51ngh")
         print(" code name: alpha release")
